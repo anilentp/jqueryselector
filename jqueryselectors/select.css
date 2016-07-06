@@ -1,9 +1,13 @@
 @import url(main.css);
 
 #container .highlight {
-  background-color: #ff6;
-  color: #c00;
+  background-color: #3ACA7E;
+  color: #D5166B;
   position: relative;
+  display: inline-block;
+  text-transform: uppercase;
+  padding: 5px;
+  font-style: italic;
 }
 
 #container {
